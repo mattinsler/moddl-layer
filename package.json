@@ -1,6 +1,6 @@
 {
   "name": "moddl-layer",
-  "description": "moddl plugin for layer-cake",
+  "description": "layer-cake plugin for moddl",
   "version": "0.0.1",
   "homepage": "https://github.com/mattinsler/moddl-layer",
   "author": {
